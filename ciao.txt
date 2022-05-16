@@ -1,0 +1,4 @@
+Lorenzo
+qualsiasi cartella contenga .git sarà automaticamente una repository
+commit = instantanea del mio progetto
+git add . per lanciare tutti i file
